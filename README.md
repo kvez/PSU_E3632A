@@ -2,7 +2,7 @@
 
 ![Screenshot](picture.png)
 
-Keysight E3632A DC tápegység kézi vezérlő GUI-ja RS-232 soros porton. Valós idejű feszültség- és árammérést végez a beépített 34465A DMM-mel, és matplotlib grafikonon jeleníti meg az eredményeket.
+Keysight E3632A DC tápegység kézi vezérlő GUI-ja RS-232 soros porton. Valós idejű feszültség- és árammérést végez a 34465A DMM-mel, és matplotlib grafikonon jeleníti meg az eredményeket.
 
 ## Funkciók
 
